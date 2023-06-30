@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/Ivory.TesteEstagio.CampoMinado.csproj": {}
+  },
+  "projects": {
+    "/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/Ivory.TesteEstagio.CampoMinado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/Ivory.TesteEstagio.CampoMinado.csproj",
+        "projectName": "Ivory.TesteEstagio.CampoMinado",
+        "projectPath": "/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/Ivory.TesteEstagio.CampoMinado.csproj",
+        "packagesPath": "/home/jefferson/.nuget/packages/",
+        "outputPath": "/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jefferson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/nova/sdk/6.0.411/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

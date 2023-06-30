@@ -1,0 +1,15 @@
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/bin/Debug/net6.0/Ivory.TesteEstagio.CampoMinado
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/bin/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.deps.json
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/bin/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.runtimeconfig.json
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/bin/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.dll
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/bin/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.pdb
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.csproj.AssemblyReference.cache
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.AssemblyInfoInputs.cache
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.AssemblyInfo.cs
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.csproj.CoreCompileInputs.cache
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.dll
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/refint/Ivory.TesteEstagio.CampoMinado.dll
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.pdb
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/Ivory.TesteEstagio.CampoMinado.genruntimeconfig.cache
+/home/jefferson/Documentos/estudoNET/Ivory.TesteEstagio.CampoMinado/program/obj/Debug/net6.0/ref/Ivory.TesteEstagio.CampoMinado.dll
