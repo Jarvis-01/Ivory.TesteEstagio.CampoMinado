@@ -162,7 +162,7 @@ namespace Ivory.TesteEstagio.CampoMinado
 
             }
             if (campoMinado.JogoStatus == 1){
-                Console.Write("Parebes voce ganhou!!");
+                Console.Write("Parebens voce ganhou!!");
             }else{
                 Console.Write("Poxa voce perdeu");
             }
