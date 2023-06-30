@@ -1,2 +1,5 @@
 # Ivory.TesteEstagio.CampoMinado
- algoritmo em c# que joga campo minado
+ Algoritmo em c# que joga campo minado
+
+Projeto atualizado com dotnet sdk versão 6.0.411
+
